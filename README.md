@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic Automation Engineer with a passion for learning, optimizing processes, enhancing efficiency, and driving quality. Dedicated to leveraging automation tools and techniques to improve productivity, reduce errors, and enhance software delivery.</h3>
 <br>
 
-- 🌱 I’m currently learning **Jenkins, Docker, CI/CD**
+- 🌱 I’m currently learning **Jenkins, Docker, CI/CD, Linux, Flask**
 
 - 👯 I’m looking to collaborate on **Automation Projects**
 
